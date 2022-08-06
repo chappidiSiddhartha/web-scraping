@@ -1,0 +1,101 @@
+,Time,location,disaster,intensity,Duration
+0,5 months ago ,India,India,High Intensity,2020
+1,4 months ago ,India,India,High Intensity,two-decade
+2,4 months ago ,India,India,High Intensity,Last Three Decades
+3,3 months ago ,India,India,High Intensity,Last Three Decades
+4,4 months ago ,Uttarakhand,India,Low Intensity,Last Three Decades
+5,7 months ago ,Hyderabad,India,Medium Intensity,Last Three Decades
+6,10 months ago,Hyderabad,India,High Intensity,1st half of 2020
+7,17 months ago,India,India,High Intensity,2019
+8,10 months ago,India,India,High Intensity,2019 - World
+9,12 months ago,India,India,High Intensity,2019 - World
+10,5 months ago ,India,India,High Intensity,2019 - World
+11,9 months ago ,India,Kerala,High Intensity,2019 - World
+12,3 months ago ,India,Kerala,High Intensity,2019 - World
+13,16 months ago,India,Kerala,High Intensity,2019 - World
+14,1 month ago ?,India,Kerala,Low Intensity,2019 - World
+15,12 months ago,India,Kerala,Medium Intensity,this year
+16,5 months ago ,India,Kerala,High Intensity,Financial Year '
+17,6 months ago ,India,Biological Risks,High Intensity,Financial Year '
+18,4 months ago ,India,Biological Risks,High Intensity,Financial Year '
+19,31 months ago,India,Kerala Post,High Intensity,Financial Year '
+20,4 months ago ,India,Karnataka's,High Intensity,2
+21,4 months ago ,Uttarakhand,Karnataka's,Low Intensity,2
+22,30 months ago,US,the Deadliest Natural Disasters,High Intensity,2018
+23,1 month ago ?,US,the Deadliest Natural Disasters,High Intensity,2018
+24,2 months ago ,US,the Deadliest Natural Disasters,Low Intensity,2018
+25,3 months ago ,Rs,Madhya Pradesh,High Intensity,2018
+26,1 month ago ?,India,Madhya Pradesh,High Intensity,2018
+27,4 months ago ,India,Mountain Warming,High Intensity,2018
+28,3 months ago ,Uttarakhand,Mountain Warming,Low Intensity,2018
+29,4 months ago ,Uttarakhand,Mountain Warming,High Intensity,2018
+30,17 months ago,India,Mountain Warming,High Intensity,2018
+31,8 months ago ,India,Mountain Warming,Low Intensity,the worst year
+32,8 months ago ,India,Mountain Warming,High Intensity,the worst year
+33,22 months ago,India,Mountain Warming,High Intensity,22165
+34,7 months ago ,Turkey,Mountain Warming,High Intensity,22165
+35,8 months ago ,Turkey,Land Prone,High Intensity,2004-16’
+36,6 months ago ,Turkey,Land Prone,High Intensity,2018
+37,4 months ago ,Indonesia,Land Prone,High Intensity,2018
+38,16 months ago,Indonesia,Land Prone,High Intensity,2018
+39,8 months ago ,India,Land Prone,High Intensity,2018
+40,9 months ago ,India,Land Prone,High Intensity,2018
+41,5 months ago ,India,Land Prone,High Intensity,2020
+42,10 months ago,Munnar,Land Prone,Low Intensity,2020
+43,18 months ago,US,the Deadliest Natural Disasters,Low Intensity,2019
+44,30 months ago,Uttarakhand,the Deadliest Natural Disasters,High Intensity,2013
+45,17 months ago,India,Are Major Natural Calamities,High Intensity,Year-Ender 2019
+46,10 months ago,India,Air India,High Intensity,Year-Ender 2019
+47,17 months ago,India,Deadliest Natural Disasters,High Intensity,2019
+48,11 months ago,Uttarakhand,Deadliest Natural Disasters,High Intensity,2019
+49,8 months ago ,Uttarakhand,Deadliest Natural Disasters,High Intensity,27 years
+50,10 months ago,India,Deadliest Natural Disasters,High Intensity,27 years
+51,12 months ago,India,Migration,High Intensity,27 years
+52,16 months ago,India,Migration,High Intensity,27 years
+53,16 months ago,India,Migration,High Intensity,2019
+54,14 months ago,India,Migration,Low Intensity,2019
+55,16 months ago,India,Migration,Medium Intensity,2019
+56,13 months ago,India,Vizag,High Intensity,2019
+57,23 months ago,India,Vizag,High Intensity,2019
+58,13 months ago,India,Vizag,High Intensity,2019
+59,39 months ago,India,Vizag,High Intensity,2019
+60,31 months ago,India,UN,High Intensity,last 20 years
+61,12 months ago,India,UN,High Intensity,last 20 years
+62,16 months ago,Earth,UN,High Intensity,2019
+63,3 months ago ,Earth,UN,High Intensity,2019
+64,37 months ago,Earth,UN,High Intensity,2019
+65,33 months ago,Earth,Kerala,Medium Intensity,2019
+66,17 months ago,North Indian Ocean,Kerala,High Intensity,2019
+67,41 months ago,North Indian Ocean,CNBC,High Intensity,2019
+68,33 months ago,India,CNBC,High Intensity,Four days
+69,80 months ago,India,CNBC,High Intensity,2001
+70,5 months ago ,India,COVID?19,High Intensity,2001
+71,18 months ago,India,COVID?19,High Intensity,2001
+72,25 months ago,Odisha,COVID?19,High Intensity,20 years before Cyclone
+73,8 months ago ,Odisha,COVID?19,Low Intensity,20 years before Cyclone
+74,35 months ago,Odisha,World,High Intensity,20 years before Cyclone
+75,33 months ago,Odisha,World,High Intensity,20 years before Cyclone
+76,16 months ago,India,World,High Intensity,20 years before Cyclone
+77,14 months ago,India,Worst Pandemics,Medium Intensity,1720 to 2020
+78,33 months ago,India,Worst Pandemics,Low Intensity,2017
+79,12 months ago,India,Chemical Accident Rules,High Intensity,2017
+80,23 months ago,Uttarakhand,Chemical Accident Rules,Low Intensity,2017
+81,20 months ago,Uttarakhand,Chemical Accident Rules,High Intensity,2017
+82,30 months ago,Uttarakhand,Gaja,High Intensity,2017
+83,22 months ago,Sangli Kolhapur,Maharashtra,High Intensity,2017
+84,24 months ago,Sangli Kolhapur,Maharashtra,High Intensity,the past 50 years
+85,32 months ago,Kerala,Maharashtra,High Intensity,a century
+86,12 months ago,Visakhapatnam,Vizag,High Intensity,a century
+87,20 months ago,India,Western Ghats,High Intensity,a century
+88,12 months ago,India,Western Ghats,High Intensity,a century
+89,10 months ago,India,Maharashtra,High Intensity,a century
+90,28 months ago,India,Himalaya,Medium Intensity,a century
+91,30 months ago,India,Himalaya,Medium Intensity,a lakh a year
+92,5 months ago ,India,Himalaya,High Intensity,a lakh a year
+93,17 months ago,India,Himalaya,High Intensity,2019
+94,37 months ago,India,Himalaya,High Intensity,2020
+95,12 months ago,Patna,Himalaya,High Intensity,2020
+96,24 months ago,Patna,Himalaya,High Intensity,2020
+97,12 months ago,West Bengal-Odisha,Himalaya,Low Intensity,2020
+98,21 months ago,India,Himalaya,High Intensity,1947 to 2019
+99,14 months ago,India,Himalaya,Low Intensity,every 100 years
